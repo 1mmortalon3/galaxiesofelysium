@@ -1,4 +1,4 @@
-# Galaxies of Elysiyum — a Helix schema
+# Galaxies of Elysiyum — a WIP Helix schema
 
 A custom [Helix](https://github.com/NebulousCloud/helix) roleplay schema built around refrence concept art:
 seven civilizations spread across six galaxies, all circling one prize — **the six Elysian Keys**.
