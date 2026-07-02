@@ -54,13 +54,13 @@ schema/
 ## Placing the Keys in the world
 
 The item files in `schema/items/keys/` are ready to use but aren't spawned anywhere yet — that's a
-deliberate map/story decision left to you. Options, roughly in order of effort:
+deliberate map/story decision left to you the owner. Options, roughly in order of effort:
 - **Simplest:** as an admin, spawn one of each Key item near a location that fits its galaxy's theme
   (a ruin for the Zhyrin Key, a trade hub for the Xandrale Key, etc.), then leave them for players to find.
 - **More game-like:** wrap each Key spawn in a quest, a locked door, an NPC vendor who trades for one,
   or a `timer.Create` that respawns a Key on a random Notable World location after a Convergence resets
   the board.
-- **Most ambitious:** since your concept art names eight Notable Worlds (Aurelon Prime, Nova Veridia,
+- **Most ambitious:** since the concept art useda s a refrence names eight Notable Worlds (Aurelon Prime, Nova Veridia,
   Kael-7, Vaeloris, Drakenfall, Seraph Prime, The Convergence, Elysiyum Prime), you could build those
   out as actual named zones on your map (or separate maps travelled between via a "warp" trigger) and
   tie each Key to its matching world.
