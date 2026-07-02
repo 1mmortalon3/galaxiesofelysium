@@ -1,0 +1,8 @@
+"elysiyum"
+{
+	"base"			"helix"
+	"title"			"Galaxies of Elysium"
+	"menusystem"	"1"
+	"author"		"Your Name"
+	"description"	"A space-opera Helix schema set across the six galaxies of Elysiyum, where seven civilizations vie for control of the Elysian Keys."
+}

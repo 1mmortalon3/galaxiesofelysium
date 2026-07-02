@@ -1,0 +1,2 @@
+-- Client-only miscellaneous schema functions.
+-- Put standalone client helper functions here (not hooks - those go in cl_hooks.lua).
